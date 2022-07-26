@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeshedPaths": [
+        ".vscode\\Pico-Stub"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.extraPaths": [
+        ".vscode\\Pico-Stub\\stubs"
+    ],
+    "python.linting.enabled": true,
+}
